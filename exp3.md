@@ -109,6 +109,7 @@ Step 3: Calculate hre =∆𝑉𝑏𝑒
 <img width="372" height="171" alt="image" src="https://github.com/user-attachments/assets/ea5faa57-be49-4f8f-84db-9cda881db5bf" />
 
 # GRAPH:
+<img width="592" height="669" alt="image" src="https://github.com/user-attachments/assets/4a50b8f5-2ab1-4a4c-b017-de85732ed1af" />
 
 # RESULT:
 The input and output characteristics of transistor in CE mode is drawn and,
